@@ -1,0 +1,23 @@
+{
+  "name": "electron02",
+  "version": "1.0.0",
+  "description": "Learning resource app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eBarrero/Electron02.git"
+  },
+  "author": "UGE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eBarrero/Electron02/issues"
+  },
+  "homepage": "https://github.com/eBarrero/Electron02#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
